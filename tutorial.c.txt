@@ -1,1 +1,2 @@
 test tutorial
+git pull izvrsicu enke promene da testiram to
